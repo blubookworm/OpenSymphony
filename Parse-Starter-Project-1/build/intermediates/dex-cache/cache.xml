@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/BlueAngelZura/Downloads/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/exploded-aar/Parse-Starter-Project-1/dropboxChooserSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="da2e483e70761ea429efc395f674375879c6ca8b">
+        <dex dex="/Users/BlueAngelZura/Downloads/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-f6128794c3279f5c0eb652af6a50a18de1eb4b28.jar" />
+    </item>
+    <item
+        jar="/Users/BlueAngelZura/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/BlueAngelZura/Downloads/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/pre-dexed/debug/support-v4-18.0.0-a4a36323609c141b433ed7b2b218290965eac434.jar" />
+    </item>
+    <item
+        jar="/Users/BlueAngelZura/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/BlueAngelZura/Downloads/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-70d6a743451ab14bd0e833d229209e6a46fa8564.jar" />
+    </item>
+    <item
+        jar="/Users/BlueAngelZura/Downloads/Parse-Starter-Project-1/ParseStarterProject/libs/ParseCrashReporting-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7a11f2d74111fd9b02c2d091a1b76b82f6a4357e">
+        <dex dex="/Users/BlueAngelZura/Downloads/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.4-972243b808428b5d894079266957d8381c62b386.jar" />
+    </item>
+    <item
+        jar="/Users/BlueAngelZura/Downloads/Parse-Starter-Project-1/ParseStarterProject/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/BlueAngelZura/Downloads/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.9.4-f8ceef0c379928ae91f11073fea89c8ec6b1499e.jar" />
+    </item>
+
+</items>
